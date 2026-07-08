@@ -11,6 +11,8 @@
 * **Highlights**: 
   * Independently engineered the **Savings & Goal management module**, implementing secure full CRUD operations.
   * Developed an interactive data-analytic dashboard to track long-term savings goals and visual financial milestones.
+* **🔗 Resource**
+  * 🎨 [Figma UI Prototype](https://www.figma.com/design/l5YV3236vRS3gq3yUMv31C/Untitled?node-id=213-1676&t=f8JLoBem5bI1Knyf-1)
 
 #### 3. [🌱 Eco Challenge](https://github.com/vyyh-java/MAD_6.git)
 * **Role**: UI/UX Designer, Front-End Developer & Full-Stack Developer (Learning-Material Module)
