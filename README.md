@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 👥 Individual Projects
-#### 1. [Pocket Channel](https://github.com/vyyh-java/Pocket_Channel.git)
+#### 1. [Pocket Channel](https://github.com/vyyh-java/Pocket-Channel.git)
 
 ### 👥 Group Projects
 
