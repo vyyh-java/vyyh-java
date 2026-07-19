@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### 👥 Individual Projects
+#### 1. [Pocket Channel](https://github.com/vyyh-java/Pocket_Channel.git)
+
 ### 👥 Group Projects
 
 #### 1. [🤖 Moderation-bot](https://github.com/qy0909/moderation-bot.git)
