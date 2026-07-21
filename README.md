@@ -2,6 +2,7 @@
 
 ### 👥 Individual Projects
 #### 1. [Pocket Channel](https://github.com/vyyh-java/Pocket-Channel.git)
+* **resource**: [figma ui](https://www.figma.com/design/tU68f2vXNjZQBaoKCjixSU/Untitled?node-id=122-703&t=oA4zpWRD6b1YqpmX-1)
 
 ### 👥 Group Projects
 
